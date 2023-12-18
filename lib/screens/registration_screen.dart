@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:chat_app/widgets/my_button.dart';
 
 class RegistrationScreen extends StatefulWidget {
+  static String screenRoute = 'registration_screen';
+
   const RegistrationScreen({super.key});
 
   @override
