@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86717523908",
+    "project_id": "chatloom-app",
+    "storage_bucket": "chatloom-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86717523908:android:65bdb8e33029be56fb2691",
+        "android_client_info": {
+          "package_name": "com.lazreg.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkeY55LeepgD2eQaP-9Uk_bDcwMu1bnyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
